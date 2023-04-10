@@ -18,7 +18,6 @@ Marvel-Quiz is a small React JS application for beginners.
 * [React Toastify](https://www.npmjs.com/package/stepper-horizontal) - Easy and customizable notifications
 * [React Tooltip](https://www.npmjs.com/package/react-tooltip) - Easy and customizable tooltips
 
-## Youtube channel
 ![Mon image](marvel-text.png)
 
 # marvel-quiz
