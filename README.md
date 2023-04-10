@@ -1,20 +1,6 @@
 # Marvel-Quiz
 
-Marvel-Quiz is a small React JS application for beginners. It is part of a large Youtube training videos series at [Donkey Geek](https://www.youtube.com/c/DonkeyGeek)
-
-## Getting Started
-
-To get started, you can clone the project or download it to your machine. There you will find the App.css file as well as some images that you can use in your application (Only for training purpose). II also recorded many videos to show you how to code the whole application step by step. All the videos are available on my Youtube channel at [Donkey Geek](https://www.youtube.com/c/DonkeyGeek)
-Don't forget to subscribe, Like and share the videos.
-
-### Prerequisites
-
-* HTML / css
-* JavaScript (ES6 +)
-* React JS basics (Check the 2 links below)
-* [Formation REACT JS pour Débutants](https://www.youtube.com/playlist?list=PLmYBIzXGbEzLhBgbGa7ucqGJr5RgmzjWr)
-* [React HOOKS](https://www.youtube.com/playlist?list=PLmYBIzXGbEzIAGkcwOcIW4rHHvp2SlU5s)
-
+Marvel-Quiz is a small React JS application for beginners.
 ## Project resources & dependencies
 
 * [Visual Studio Code](https://code.visualstudio.com/) - My favorite Source-code editor
@@ -33,6 +19,6 @@ Don't forget to subscribe, Like and share the videos.
 * [React Tooltip](https://www.npmjs.com/package/react-tooltip) - Easy and customizable tooltips
 
 ## Youtube channel
+![Mon image](marvel-text.png)
 
-* [Donkey Geek](https://www.youtube.com/c/DonkeyGeek)
 # marvel-quiz
